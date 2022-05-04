@@ -1,5 +1,3 @@
-from enum import auto
-from turtle import st
 import streamlit as st
 import pyaztro
 
